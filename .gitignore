@@ -1,0 +1,19 @@
+# Системні файли ОС
+.DS_Store
+Thumbs.db
+
+# Налаштування середовища розробки
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Конфіденційні дані
+.env
+
+# Архіви
+*.7z
